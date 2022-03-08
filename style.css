@@ -1,0 +1,37 @@
+#wish{
+    width: 80%;
+    font-size: 50px;
+}
+
+#img_w{
+    margin-top: 35px;
+    margin-right: 25px;
+    width: 1200px;
+    height: 650px; 
+}
+
+#u{
+    margin-top: 35px;
+    margin-right: 25px;
+    width: 1200px;
+    height: 650px;
+}
+
+#img_ww{
+    width: 500px;
+    height: 500px; 
+    margin-top: 50px;
+    margin-bottom:  10px; 
+}
+
+#img_wiw{
+    margin-left: 30px;
+    width: 500px;
+    height: 500px; 
+    margin-top: 50px;
+    margin-bottom:  10px; 
+}
+
+body{
+    background-color: rgb(1, 255, 234);
+}
